@@ -3,37 +3,7 @@
 <html>
 
 <head>
-	<style>
-	ul.a {list-style-type: circle;}
-	ul.b {list-style-type: square;}
-	ul.c {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
-}
-li a:hover {
-  background-color: #111111;
-}
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 16px;
-  text-decoration: none;
-}
-li a:hover {
-  background-color: #111111;
-}
-	</style>
-	<title>My Resume
-	</title>
-	<link rel="stylesheet" type="text/css" href="resumeStyle.css">
+	
 </head>
 <body>
 	<div id="hd" align="center">
